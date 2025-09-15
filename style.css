@@ -1,0 +1,36 @@
+.lists-box{
+    background-color: rgb(240, 0, 0);
+    color:  black;
+    text-align: center;
+    display: block;
+}
+
+a{
+    background-color: rebeccapurple;
+    display: block;
+    margin: 150px auto;
+    height: 300px;
+    width: 300px;
+    box-sizing: border-box;
+    padding: 120px;
+
+}
+
+
+
+.title{
+    background-color: orange;
+    text-align: center;
+    padding: 50px;
+    display: block;
+    box-sizing: border-box;
+    font-size: 50px;
+}
+
+
+
+*{
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+}
+
